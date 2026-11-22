@@ -1,0 +1,6 @@
+# Offline mode needs only the Python standard library.
+# Install these to run LCEL and/or a real LLM agent.
+langchain>=1.0
+langchain-core>=1.0
+langchain-openai>=1.0
+langgraph>=1.0
