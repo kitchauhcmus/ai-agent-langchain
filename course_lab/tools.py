@@ -3,7 +3,6 @@
 A tool's job is small and focused. The agent chooses WHICH tool to use;
 Python is responsible for EXECUTING it.
 """
-import pandas as pd
 import math
 from pathlib import Path
 from .database import StudyDatabase
