@@ -3,7 +3,7 @@
 A tool's job is small and focused. The agent chooses WHICH tool to use;
 Python is responsible for EXECUTING it.
 """
-
+# Git practice: improve calculator feature
 import math
 from pathlib import Path
 from .database import StudyDatabase
